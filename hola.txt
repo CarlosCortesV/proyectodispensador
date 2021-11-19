@@ -4,3 +4,6 @@ Hola mundo este es un archivo nuevo realizado por mi para mi.
 22
 54
 Este es un cambio
+343
+123
+Este es un nuevo cambio en el archivo original.
